@@ -6,7 +6,7 @@ Identifies all unused CSS in a website and downloads the reduced CSS files with 
 
 1. Clone or download this repository
 1. At `./strip-unused-css` run `npm i puppeteer --save`
-1. Run `node csscoverage.js`
+1. Run `node csscoverage.js https://jokroese.com`
 
 ## Reference
 
