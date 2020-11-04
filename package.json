@@ -1,0 +1,22 @@
+{
+  "name": "strip-unused-css",
+  "version": "0.0.1",
+  "description": "Download CSS files with all unused code removed.",
+  "main": "csscoverage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joekroese/strip-unused-css.git"
+  },
+  "author": "Jo Kroese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekroese/strip-unused-css/issues"
+  },
+  "homepage": "https://github.com/joekroese/strip-unused-css#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
